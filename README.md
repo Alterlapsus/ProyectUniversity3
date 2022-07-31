@@ -1,6 +1,7 @@
 # ProyectUniversity3
 
-- Se vuelve a realizar la misma página del ProyectUniversity2, pero ahora se utilizara Bootstrap para su creación.
+- Se vuelve a realizar la misma página del ProyectUniversity2, pero añadiendo Bootstrap para su creación.
+- Aún se encuentra en proceso. 
 
 ---
 
@@ -28,7 +29,7 @@ Tecnologías utilizadas:
 Descargar de archivos: 
 
 - git 
-- git clone https://github.com/Alterlapsus/ProyectUniversity2.git
+- git clone https://github.com/Alterlapsus/ProyectUniversity3.git
 
 ---
 
