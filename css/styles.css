@@ -57,7 +57,16 @@ h3{
 }
 
 /* navegacion */
-
+.navbar-nav .nav-link{
+    display: inline-block;
+    color: var(--blanco);
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    background-color: var(--primario);
+    color: #212121;
+}
 
 
 /* .header{
