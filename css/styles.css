@@ -70,7 +70,7 @@ h3{
 }
 
 
-/* .header{
+ .header{
     text-align: center;
     text-transform: uppercase;
 }
@@ -395,15 +395,4 @@ model-viewer{
     font-weight: bold;
     color: var(--primario);
     text-transform: uppercase;
-} */
-
-
-
-
-
-
-
-
-
-
-
+} 
