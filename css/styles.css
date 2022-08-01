@@ -58,10 +58,11 @@ h3{
 
 /* navegacion */
 .navbar-nav .nav-link{
-    display: inline-block;
     color: var(--blanco);
     font-size: 2rem;
     text-transform: uppercase;
+    margin-left: 13rem;
+    margin-right: 5rem;
 }
 .nav-link:hover{
     background-color: var(--primario);
