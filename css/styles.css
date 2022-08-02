@@ -50,10 +50,7 @@ body{
     margin-left: 13rem;
     margin-right: 5rem;
 }
-.nav-link:hover{
-    background-color: var(--primario);
-    color: #212121;
-}
+
 
 model-viewer{
     margin: 0 auto;
